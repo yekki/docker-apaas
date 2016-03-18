@@ -1,11 +1,11 @@
-## Build Tomcat Images
+## Build Tomcat Image
 
 rename Dockerfile.tomcat to Dockerfile and run:
 
     docker build -t tomcat:8.0 .
 
 
-### Build Oracle PaaS Simulator Images
+### Build Oracle PaaS Simulator Image
 
 rename Dockerfile.paas to Dockerfile and run:
 
